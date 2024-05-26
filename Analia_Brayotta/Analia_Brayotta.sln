@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libreria_Auto", "Libreria_Auto\Libreria_Auto.csproj", "{9C2F4FF6-E05F-40B4-9180-C25FDA0E594C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testeo_Autos", "Testeo_Autos\Testeo_Autos.csproj", "{0C24B457-A3BB-40E0-A69F-D8A59C2F7B59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C2F4FF6-E05F-40B4-9180-C25FDA0E594C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C2F4FF6-E05F-40B4-9180-C25FDA0E594C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C2F4FF6-E05F-40B4-9180-C25FDA0E594C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C2F4FF6-E05F-40B4-9180-C25FDA0E594C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C24B457-A3BB-40E0-A69F-D8A59C2F7B59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C24B457-A3BB-40E0-A69F-D8A59C2F7B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C24B457-A3BB-40E0-A69F-D8A59C2F7B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C24B457-A3BB-40E0-A69F-D8A59C2F7B59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {126B35FE-DB30-4985-A235-5CBA050F7F5E}
+	EndGlobalSection
+EndGlobal

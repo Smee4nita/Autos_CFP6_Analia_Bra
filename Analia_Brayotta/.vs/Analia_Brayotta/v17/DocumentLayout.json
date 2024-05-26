@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Autos_CFP6_Analia_Bra\\Analia_Brayotta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C24B457-A3BB-40E0-A69F-D8A59C2F7B59}|Testeo_Autos\\Testeo_Autos.csproj|c:\\users\\admin\\desktop\\autos_cfp6_analia_bra\\analia_brayotta\\testeo_autos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C24B457-A3BB-40E0-A69F-D8A59C2F7B59}|Testeo_Autos\\Testeo_Autos.csproj|solutionrelative:testeo_autos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2F4FF6-E05F-40B4-9180-C25FDA0E594C}|Libreria_Auto\\Libreria_Auto.csproj|c:\\users\\admin\\desktop\\autos_cfp6_analia_bra\\analia_brayotta\\libreria_auto\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2F4FF6-E05F-40B4-9180-C25FDA0E594C}|Libreria_Auto\\Libreria_Auto.csproj|solutionrelative:libreria_auto\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Autos_CFP6_Analia_Bra\\Analia_Brayotta\\Testeo_Autos\\Program.cs",
+              "RelativeDocumentMoniker": "Testeo_Autos\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Autos_CFP6_Analia_Bra\\Analia_Brayotta\\Testeo_Autos\\Program.cs",
+              "RelativeToolTip": "Testeo_Autos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:52:36.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Autos_CFP6_Analia_Bra\\Analia_Brayotta\\Libreria_Auto\\Auto.cs",
+              "RelativeDocumentMoniker": "Libreria_Auto\\Auto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Autos_CFP6_Analia_Bra\\Analia_Brayotta\\Libreria_Auto\\Auto.cs",
+              "RelativeToolTip": "Libreria_Auto\\Auto.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAwDkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:51:11.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

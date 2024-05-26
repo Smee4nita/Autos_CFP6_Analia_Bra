@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\Autos_CFP6_Analia_Bra\Analia_Brayotta\Libreria_Auto\bin\Debug\net8.0\Libreria_Auto.deps.json
+C:\Users\admin\Desktop\Autos_CFP6_Analia_Bra\Analia_Brayotta\Libreria_Auto\bin\Debug\net8.0\Libreria_Auto.dll
+C:\Users\admin\Desktop\Autos_CFP6_Analia_Bra\Analia_Brayotta\Libreria_Auto\bin\Debug\net8.0\Libreria_Auto.pdb
+C:\Users\admin\Desktop\Autos_CFP6_Analia_Bra\Analia_Brayotta\Libreria_Auto\obj\Debug\net8.0\Libreria_Auto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Autos_CFP6_Analia_Bra\Analia_Brayotta\Libreria_Auto\obj\Debug\net8.0\Libreria_Auto.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Autos_CFP6_Analia_Bra\Analia_Brayotta\Libreria_Auto\obj\Debug\net8.0\Libreria_Auto.AssemblyInfo.cs
+C:\Users\admin\Desktop\Autos_CFP6_Analia_Bra\Analia_Brayotta\Libreria_Auto\obj\Debug\net8.0\Libreria_Auto.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Autos_CFP6_Analia_Bra\Analia_Brayotta\Libreria_Auto\obj\Debug\net8.0\Libreria_Auto.sourcelink.json
+C:\Users\admin\Desktop\Autos_CFP6_Analia_Bra\Analia_Brayotta\Libreria_Auto\obj\Debug\net8.0\Libreria_Auto.dll
+C:\Users\admin\Desktop\Autos_CFP6_Analia_Bra\Analia_Brayotta\Libreria_Auto\obj\Debug\net8.0\refint\Libreria_Auto.dll
+C:\Users\admin\Desktop\Autos_CFP6_Analia_Bra\Analia_Brayotta\Libreria_Auto\obj\Debug\net8.0\Libreria_Auto.pdb
+C:\Users\admin\Desktop\Autos_CFP6_Analia_Bra\Analia_Brayotta\Libreria_Auto\obj\Debug\net8.0\ref\Libreria_Auto.dll
