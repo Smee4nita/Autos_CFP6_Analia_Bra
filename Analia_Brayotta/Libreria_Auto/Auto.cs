@@ -94,6 +94,15 @@ namespace Libreria_Auto
             return retorno;
 
         }
+        public static List<string> ColoresValidos()
+        {
+            List<string> list = new List<string>()
+            {
+                "Azul","Gris","Verde","Amarillo" 
+            };
+            return list;
+
+        }
 
         public override string ToString()
         {

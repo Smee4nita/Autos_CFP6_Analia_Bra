@@ -8,9 +8,10 @@ namespace Formulario_Auto
         {
             InitializeComponent();
         }
-        private void Formulario_auto_loa(object sender, EventArgs e)
+        private void Formulario_auto_load(object sender, EventArgs e)
         {
             this.misAutos = new List<Auto>();
+            this.cmb_colores.Items.AddRange(Auto.ColoresValidos().ToArray());
         }
         private void label3_Click(object sender, EventArgs e)
         {
