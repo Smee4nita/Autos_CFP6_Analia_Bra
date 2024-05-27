@@ -73,7 +73,7 @@ namespace Libreria_Auto
         {
             bool retorno = true;
 
-            switch (nuevoColor)
+            switch (nuevoColor.ToLower())
             {
                 case "rojo":
                     this.color = Color.Red;
